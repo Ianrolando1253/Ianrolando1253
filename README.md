@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ianrolando1253
-- 👀 I’m interested in Gaming, reading, meditating, exercising
+- 👀 I’m interested in Gaming, reading, meditating, and exercising! :D
 - 🌱 I’m currently learning JavaScript, HTML, and CSS!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Projects I'm working on
 - 📫 How to reach me. Please only email me at iangonzalez2002@gmail.com
 
 <!---
