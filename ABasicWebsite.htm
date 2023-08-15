@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Simple Website</title>
+</head>
+<style>
+
+h1{
+    font-family:monospace;
+    text-align:center;
+    color:brown;
+}
+
+body{
+    background-color:bisque;
+    text-align:center;
+}
+
+h3{
+    color:blue;
+    font-family:Verdana;
+}
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+</style>
+<body>
+    
+<h1><marquee>Welcome to my Web Page!</marquee></h1>
+
+<hr>
+
+<br>
+
+
+
+<p id="demo"></p>
+
+<h3>Fun Facts about Polar Bears!</h3>
+
+
+<script>
+const message = "You found me!";
+console.log(message);
+
+const d = new Date();
+
+function timeFunction() {
+    document.getElementById("demo").innerHTML = d.toDateString();
+}
+
+timeFunction();
+</script>
+
+<ul>
+    <li>Their skin is black -- but their fur is white.</li>
+    <li>They share their food often with artic foxes. </li>
+    <li>They live in Anaratica </li>
+</ul>
+
+<img src="https://vignette.wikia.nocookie.net/minecraft/images/d/d9/PolarBear.png/revision/latest?cb=20160526042359" alt="polar-bears" height="175px" weight="175px">
+
+<p>Hello there, citizen of the internet. I hoped that you enjoy these interesting facts about
+    Polar Bears. Not only they're interesting mammals -- but exotic and unique. As I always say to people
+    have a curious mindset and continuing learning throughout your life!
+</p>
+
+
+
+</body>
+</html>
